@@ -239,7 +239,7 @@ On Windows (CP1252 terminal):
 #### From source
 
 ```bash
-git clone https://github.com/VjAlbert/pith-skill.git
+git clone https://github.com/AssistenteMalpagato/pith-skill.git
 cd pith-skill
 uv sync --locked
 uv run mcp-server-pith
@@ -521,13 +521,13 @@ pith-skill/
 
 ## Author
 
-Created by **Albert** ([@VjAlbert](https://github.com/VjAlbert)) — developer, game theory enthusiast, and Benford's Law advocate. PITH emerged from the observation that multi-agent AI systems systematically deviate from the Nash equilibrium of communication, and that both Shannon's information theory and Benford's Law are measurable signatures of that equilibrium.
+Created by **Albert** ([@AssistenteMalpagato](https://github.com/AssistenteMalpagato)) — developer, game theory enthusiast, and Benford's Law advocate. PITH emerged from the observation that multi-agent AI systems systematically deviate from the Nash equilibrium of communication, and that both Shannon's information theory and Benford's Law are measurable signatures of that equilibrium.
 
 ---
 
 ## Related
 
-- [video-analyzer](https://github.com/VjAlbert/video-analyzer) — bridges video files and Claude Projects
+- [video-analyzer](https://github.com/AssistenteMalpagato/video-analyzer) — bridges video files and Claude Projects
 - [Anthropic MCP Servers](https://github.com/modelcontextprotocol/servers) — the reference MCP server repository
 - [Anthropic Skills](https://github.com/anthropics/skills) — the official Claude Code skills repository
 

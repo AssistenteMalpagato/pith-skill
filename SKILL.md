@@ -27,7 +27,7 @@ a feedback loop that prevents over-compression from damaging meaning.
 
 ## Origin
 
-PITH was created by **Albert** ([@VjAlbert](https://github.com/VjAlbert)), a developer
+PITH was created by **Albert** ([@AssistenteMalpagato](https://github.com/AssistenteMalpagato)), a developer
 and builder of Claude skills with a background in **game theory** and **Benford's Law**.
 
 The motivation came from a simple observation: every existing compression tool targets
